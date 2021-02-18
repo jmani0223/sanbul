@@ -1,0 +1,4 @@
+# Dependency directory
+venv
+# Environment variables (.env 파일에 있는 내용은 공개되면 안되므로 .gitignore에 포함)
+.env
